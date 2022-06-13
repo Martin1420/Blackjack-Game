@@ -21,7 +21,7 @@ def total(turn):
 		if card in range(1, 11):
 			total += card
 		elif card in face:
-			total += 1
+			total += 10
 		else:
 			if total > 11:
 				total += 1
