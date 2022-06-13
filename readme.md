@@ -40,7 +40,7 @@ for _ in range(2):
 	dealCard(player_hand)
 
 while player_in or dealer_in:
-	print(f"Dealer had {revealDealerHand()} and X")
+	print(f"Dealer had {reveal_dealer_hand()} and X")
 	print(f"You have {player_hand} for a total of {total(player_hand)}")
 	if player_in:
 		stayOrHit = input("1: Stay\n2: Hit\n")
