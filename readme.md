@@ -1,5 +1,5 @@
 readme.md
-readme.md
+
 import random
 
 player_in = True
