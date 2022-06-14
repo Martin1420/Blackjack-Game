@@ -23,7 +23,7 @@ def total(turn):
 		elif card in face:
 			total += 10
 		else:
-			if total > 11:
+			if total >= 11:
 				total += 1
 			else:
 				total += 11
