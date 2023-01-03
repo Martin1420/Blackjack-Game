@@ -1,2 +1,2 @@
 # Blackjack-Game
-I made a blackjack game using Python Object Oriented Programming
+I created a blackjack game using Python Object Oriented Programming.
